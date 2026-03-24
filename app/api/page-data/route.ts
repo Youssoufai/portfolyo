@@ -29,7 +29,7 @@ const experienceData = [
         role: "Backend Developer — LocalMarket",
         location: "Remote",
         startYear: "2025",
-        endYear: "Present",
+        endYear: "2026",
         bulletPoints: [
             "Developed marketplace APIs using Node.js, Express, and PostgreSQL",
             "Implemented session-based authentication and Paystack payment integration",
@@ -41,7 +41,7 @@ const experienceData = [
         role: "FullStack Developer — CapitalCars",
         location: "Remote",
         startYear: "2025",
-        endYear: "Present",
+        endYear: "2025",
         bulletPoints: [
             "Developed landing pages and dashboards with Laravel 11 and Tailwind CSS",
             "Created reusable UI components and implemented responsive design for optimal user experience",
